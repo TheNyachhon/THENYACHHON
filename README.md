@@ -25,9 +25,11 @@ Here are some ideas to get you started:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
-- 🎨 Apart from the techincal aspects, I sketch once in a blue moon, and I also have decent knowledge in  
+- 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&emsp;
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&emsp;
+  ![premiere](https://user-images.githubusercontent.com/63194470/120119572-17a79780-c1b6-11eb-86d0-5e5f3f60d5a8.png)
+
 	
 
 - 📫 Connect with me on :
