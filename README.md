@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <a href='https://twitter.com/nyachhon'>![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
-- ⚡ Few fun facts:
+- ⚡ Few facts:
   - 👂 Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!
+  - 👀 Also, I can raise both eyebrows individually.
   - <img src="https://user-images.githubusercontent.com/63194470/120119287-8552c400-c1b4-11eb-8bc9-8c77e943380d.png" alt='cube' width='25px'> I can solve a rubik's cube in around a minute.⌚
   - 🎸Though I am not much of a guitarist, I can strum one though!
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.
