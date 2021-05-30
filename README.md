@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
+- 🔭 I'm pursing my bachelors in Computer Science & Engineering and am currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
 - 💻 I am fairly proficient in
 
