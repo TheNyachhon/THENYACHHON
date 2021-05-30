@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
 - 💻 I am fairly proficient in C, C++, JAVA, MySQL, HTML and CSS.
-- (https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-1DA1F2?style=for-the-badge&logo=HTML5&logoColor=white)
 - 📚 
 
 - 📫 Connect with me on :
