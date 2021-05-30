@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
 - 💻 I am fairly proficient in
-  <br>
+  <br><br>
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&emsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&emsp;
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&emsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
 - 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in
-  <br>
+  <br><br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&emsp;
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&emsp;
   <img src='https://user-images.githubusercontent.com/63194470/120119572-17a79780-c1b6-11eb-86d0-5e5f3f60d5a8.png' alt='premiere' width='35px'/>&emsp;
