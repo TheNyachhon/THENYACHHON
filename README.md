@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
+  <br><br><br>
 - 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in
   <br><br>
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&emsp;
