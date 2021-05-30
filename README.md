@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - ⚡ Few fun facts:
   - 👂 Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!
-  - ![image](https://thenounproject.com/term/rubiks-cube/4929)I can solve a rubik's cube in around a minute.⌚
+  - ![Cube](https://thenounproject.com/term/rubiks-cube/4929)I can solve a rubik's cube in around a minute.⌚
   - 🎸Though I am not much of a guitarist, I can strum one though!
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.
   - 🎮 I game ocasionally as well!
