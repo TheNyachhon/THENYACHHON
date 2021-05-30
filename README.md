@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 📫 Connect with me on :
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-<a href='www.instagram.comn'>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href='https://www.instagram.com/rujin_shrestha/'>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
