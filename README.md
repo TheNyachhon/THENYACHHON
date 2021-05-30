@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
-- 💻 I am fairly proficient in 
+- 💻 I am fairly proficient in &emsp;
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&emsp;
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&emsp;
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&emsp;
