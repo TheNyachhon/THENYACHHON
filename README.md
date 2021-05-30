@@ -31,9 +31,7 @@ Here are some ideas to get you started:
   <img src='https://user-images.githubusercontent.com/63194470/120119572-17a79780-c1b6-11eb-86d0-5e5f3f60d5a8.png' alt='premiere' width='35px'/>&emsp;
   <img src='https://user-images.githubusercontent.com/63194470/120119624-5d646000-c1b6-11eb-9c3f-e621385cebe1.png' alt='vegaspro' width='35px'/>
 	
-
-
-
+<br><br>
 - 📫 Connect with me on :
 
 &emsp;
