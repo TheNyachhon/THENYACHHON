@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&emsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
 - 📚 
 
 - 📫 Connect with me on :
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 - ⚡ Few fun facts:
   - 👂 Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!
-  - <img src='https://www.vhv.rs/viewpic/iwJJJT_rubiks-cube-hd-png-download' alt="rubik's cube"/>I can solve a rubik's cube in around a minute.
+  - <img src='https://thenounproject.com/term/rubiks-cube/18792/' alt="rubik's cube"/>I can solve a rubik's cube in around a minute.⌚
   - 🎸Though I am not much of a guitarist, I can strum one though!
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.
   - 🎮 I game ocasionally as well!
