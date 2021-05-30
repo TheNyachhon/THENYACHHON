@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
-- 💻 I am fairly proficient in C, C++, JAVA, MySQL, HTML and CSS.
-
+- 💻 I am fairly proficient in C, C++, JAVA, MySQL, HTML<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> and CSS.
+- 📚 
 
 - 📫 Connect with me on :
 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   - <img src='https://www.vhv.rs/viewpic/iwJJJT_rubiks-cube-hd-png-download' alt="rubik's cube"/>I can solve a rubik's cube in around a minute.
   - 🎸Though I am not much of a guitarist, I can strum one though!
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.
-  - 🎮 I game ocasionally too!
+  - 🎮 I game ocasionally as well!
 
