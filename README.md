@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 Connect with me on :
 
-![Linkedin](https://img.shields.io/badge/Linkedin-00ff00?style=for-the-badge&logo=Linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
