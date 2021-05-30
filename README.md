@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and currently in the 2nd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
-- 💻 I am fairly proficient in C, C++, JAVA, MySQL, HTML and CSS.
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 💻 I am fairly proficient in 
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) &
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white).
+  ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 - 📚 
 
 - 📫 Connect with me on :
