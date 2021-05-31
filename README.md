@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <a href='https://www.instagram.com/rujin_shrestha/'>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href='https://twitter.com/nyachhon'>![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
+https://linktr.ee/rujin_shrestha
+
 
 - ⚡ Few facts:
   - 👂 Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!<br>
