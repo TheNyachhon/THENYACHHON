@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   - <img src="https://user-images.githubusercontent.com/63194470/120119287-8552c400-c1b4-11eb-8bc9-8c77e943380d.png" alt='cube' width='25px'> I can solve a rubik's cube in around a minute.⌚<br>
   - 🎸Though I am not much of a guitarist, I can strum one though!<br>
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.<br>
-  - 🎮 I game ocasionally as well!
+  - 🎮 All work no play makes me a dull boy. Hence, I game ocasionally as well!
   
   https://linktr.ee/rujin_shrestha
