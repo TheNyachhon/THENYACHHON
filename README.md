@@ -1,5 +1,5 @@
 ### Hi!, This is Rujin Shrestha 👋
-#https://linktr.ee/rujin_shrestha
+https://linktr.ee/rujin_shrestha
 
 
 <!--
