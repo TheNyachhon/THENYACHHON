@@ -1,5 +1,5 @@
 ### Hi!, This is Rujin Shrestha 👋
-https://linktr.ee/rujin_shrestha
+
 
 
 <!--
@@ -51,4 +51,5 @@ Here are some ideas to get you started:
   - 🎸Though I am not much of a guitarist, I can strum one though!<br>
   - 🏀 ⚽ Sports are a must, and these two are my all time favourite.<br>
   - 🎮 I game ocasionally as well!
-
+  
+  https://linktr.ee/rujin_shrestha
