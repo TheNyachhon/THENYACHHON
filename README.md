@@ -1,4 +1,5 @@
 ### Hi!, This is Rujin Shrestha 👋
+#https://linktr.ee/rujin_shrestha
 
 
 <!--
@@ -41,8 +42,6 @@ Here are some ideas to get you started:
 <a href='https://www.linkedin.com/in/rujin-shrestha-654080193'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href='https://www.instagram.com/rujin_shrestha/'>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href='https://twitter.com/nyachhon'>![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-
-https://linktr.ee/rujin_shrestha
 
 
 - ⚡ Few facts:
