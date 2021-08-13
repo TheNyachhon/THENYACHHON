@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm pursing my bachelors in Computer Science & Engineering and am currently in the 3rd year.
 - 🌱 I am extremely keen on learning something fresh and enjoy problem solving.
+- 🌗 Be it a day or night, I'm determined to get the job done no matter what may come.
+- 🧪 Experimenting and learning has always intrigued me and will always do so.
 - 💻 I am fairly proficient in
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&emsp;
@@ -28,6 +30,7 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
   <br><br>
+- 📚 Currently boradening my horzion in web development.
 - 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in
 
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&emsp;
