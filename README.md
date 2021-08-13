@@ -4,7 +4,7 @@
 
 <!--
 **TheNyachhon/THENYACHHON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--   - 👀 Also, I can raise both eyebrows individually.<br> -->
+  - 👀 Also, I can raise both eyebrows individually.<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
