@@ -4,7 +4,7 @@
 
 <!--
 **TheNyachhon/THENYACHHON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--   - 👀 Also, I can raise both eyebrows individually.<br> -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 - ⚡ Few facts:
   - 👂 Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!<br>
-<!--   - 👀 Also, I can raise both eyebrows individually.<br> -->
   - 👀 I can do the "the people's eyebrow".<br>
   - <img src="https://user-images.githubusercontent.com/63194470/120119287-8552c400-c1b4-11eb-8bc9-8c77e943380d.png" alt='cube' width='25px'> I can solve a rubik's cube in around a minute.⌚<br>
   - 🎸Though I am not much of a guitarist, I can strum one though!<br>
