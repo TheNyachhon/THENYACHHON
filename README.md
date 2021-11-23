@@ -71,3 +71,10 @@ Here are some ideas to get you started:
 ---
 >https://linktr.ee/rujin_shrestha
 ---
+<br>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=TheNyachhon&color=red&)
+
+</div>
+
