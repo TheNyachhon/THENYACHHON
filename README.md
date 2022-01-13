@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
   ---
-- 📚 Currently boradening my horzion in **Web Development**.👨🏽‍💻🕸 
+- 📚 Currently broadening my horzion in **Web Development**.👨🏽‍💻🕸 
 - 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in
 
   <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/>&emsp;&emsp;
