@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&emsp;
   <img src='https://user-images.githubusercontent.com/63194470/120119572-17a79780-c1b6-11eb-86d0-5e5f3f60d5a8.png' alt='premiere' width='35px'/>&emsp;
    -->
-- 🔭 I'm pursing my bachelors in Computer Science & Engineering and am currently in the 3rd year.
+- 🔭 I'm pursing my bachelors in Computer Science & Engineering and am currently in the final year.
 - 🌱 I am extremely keen on learning something new and enjoy problem solving.
 - 🌗 Be it a day or night, I'm determined to get the job done no matter what may come.
 - 🧪 Experimenting and learning has always intrigued me and will always do so.
