@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 - 🧪 Experimenting and learning has always intrigued me and will always do so.
 - 💻 I am fairly proficient in
 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&emsp;&emsp;
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&emsp;&emsp;
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>&emsp;&emsp;
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&emsp;&emsp;
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&emsp;&emsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>&emsp;&emsp;
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&emsp;&emsp;
+  <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/>&emsp;&emsp;
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&emsp;&emsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&emsp;&emsp;
 
   ---
 - 📚 Currently broadening my horzion in **Web Development**.👨🏽‍💻🕸 
