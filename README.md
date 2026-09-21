@@ -1,76 +1,116 @@
-## Hi, This is Rujin! 👋
+# Hey, I'm Rujin 👋
 
+### MS Computer Science @ WPI · Software Engineer · Exploring AI/ML
 
-<!--
-**TheNyachhon/THENYACHHON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  - 👀 Also, I can raise both eyebrows individually.<br>
-Here are some ideas to get you started:
+I'm a **Software Engineer** with 3 years of experience building and supporting production software in the financial technology space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&emsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&emsp;
-  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&emsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&emsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&emsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&emsp;
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&emsp;
-  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&emsp;
-  <img src='https://user-images.githubusercontent.com/63194470/120119572-17a79780-c1b6-11eb-86d0-5e5f3f60d5a8.png' alt='premiere' width='35px'/>&emsp;
-   -->
-- 🔭 I'm pursing my bachelors in Computer Science & Engineering and am currently in the final year.
-- 🌱 I am extremely keen on learning something new and enjoy problem solving.
-- 🌗 Be it a day or night, I'm determined to get the job done no matter what may come.
-- 🧪 Experimenting and learning has always intrigued me and will always do so.
-- 💻 I am fairly proficient in
+Currently pursuing my **MS in Computer Science at WPI**, where I'm expanding my interests into **Machine Learning, Artificial Intelligence, and intelligent human-centered systems**.
 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&emsp;&emsp;
-
-  ---
-- 📚 Currently broadening my horzion in **Web Development**.👨🏽‍💻🕸 
-- 🎨 Apart from the techincal aspects, I sketch once a while, and I also have decent knowledge in
-
-  <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/>&emsp;&emsp;
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>&emsp;&emsp;
-  <img src='https://user-images.githubusercontent.com/63194470/120119624-5d646000-c1b6-11eb-9c3f-e621385cebe1.png' alt='vegaspro' width='48px'/>
-
-	---
-- 📫 Connect with me on :
-
-&emsp;
-<a href='https://www.linkedin.com/in/rujin-shrestha-654080193'>![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href='https://www.instagram.com/rujin_shrestha/'>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href='https://twitter.com/nyachhon'>![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-
-
-- ⚡ Few facts:
-  - 👂  Only 18% of the people in the world are capable of wiggling both ears, and I can do both too!<br>
-  - 👀  I can do the "the people's eyebrow".<br>
-  - <img src="https://user-images.githubusercontent.com/63194470/120119287-8552c400-c1b4-11eb-8bc9-8c77e943380d.png" alt='cube' width='20px'> I can solve a rubik's cube in around a minute.⌚<br>
-  - 🎸  Though I am not much of a guitarist, I can strum one though!<br>
-  - 🏀 ⚽ Sports are a must, and these two are my all time favourite.<br>
-  - 🎮  All work no play makes me a dull boy. Hence, I game ocasionally as well!
 ---
->https://linktr.ee/rujin_shrestha
+
+## 🧑‍💻 About Me
+
+* 🎓 MS in **Computer Science @ WPI**
+* 💼 3 years of professional **Software Engineering** experience
+* ☕ Strong background in **Java & Spring-based systems**
+* 🤖 Expanding my expertise in **AI/ML**
+* 🧩 Interested in **intelligent systems, AI for society & human-AI interaction**
+
 ---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,php" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,angular,jquery" />
+</p>
+
+### Databases & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,rabbitmq" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Software Engineer — Wissen Technology
+
+*2023 – 2026*
+
+Worked on production systems in the fintech domain, including:
+
+* 🔄 Modernizing and decommissioning legacy systems
+* ☕ Developing **Java / Spring Integration** applications
+* 📨 Building message-driven systems using **RabbitMQ**
+* 🧪 Maintaining high **unit & integration test coverage**
+* ⚡ Improving high-volume message processing and concurrency
+* 🔍 Developing automation tools to reduce manual production analysis
+* 🛠️ Supporting production systems and investigating complex issues
+
+> One of my automation tools reduced a manual XML message investigation process from **hours of work across multiple people to roughly 15–20 minutes**.
+
+---
+
+## 🤖 Currently Exploring
+
+```text
+Machine Learning
+        ↓
+Artificial Intelligence
+        ↓
+Intelligent Systems
+        ↓
+Human-AI Interaction
+        ↓
+AI for Society
+```
+
+I'm currently deepening my knowledge of Machine Learning and Artificial Intelligence while continuing to grow as a Software Engineer. Interested in building practical intelligent systems and exploring how AI can solve real-world problems.
+
+---
+
+## 🚀 Projects
+
+Here are some things I've built:
+
+| Project                              | What it demonstrates                        |
+| ------------------------------------ | ------------------------------------------- |
+| 💬 **Web Chatting App**              | Real-time communication, Socket.IO, HCI     |
+| 📊 **Medical Insurance Forecasting** | Machine Learning, regression, data analysis |
+| 🎮 **De-Stress LAB**                 | 8086 Assembly, game development             |
+| ♟️ **Tic-Tac-Toe**                   | C/C++, OpenMP, parallel computing           |
+| 🧩 **EasEL**                         | Software development & problem solving      |
+
+> More projects coming as I continue my MS CS journey.
+
+---
+
+## 📚 Currently Learning
+
+* 🧠 Machine Learning
+* 🧩 Algorithms & Complexity
+* 🔐 Logic in Computer Science
+* 📈 Data & Statistical Modeling
+
+---
+
+## 📈 GitHub Stats
+
 <br>
 <div align="center">
 
@@ -82,3 +122,19 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=TheNyachhon&color=red&)
 
 </div>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
+</p>
+
+---
